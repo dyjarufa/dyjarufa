@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript , React**
 
-- 📫 How to reach me **jadyrufa0@gmail.com**
+- 📫 How to reach me **jadyrufa@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -20,13 +20,29 @@
 </p>
 
 </br>
+</br>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<div>
+  <img align="center" alt="dyjarufa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="dyjarufa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="dyjarufa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="dyjarufa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="dyjarufa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" >
+  <img align="center" alt="Rafa-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" >
+  
+</div>
+
+</br>
+</br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyjarufa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyjarufa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dyjarufa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyjarufa&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dyjarufa&show_icons=true&locale=en&theme=tokyonight" alt="dyjarufa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyjarufa&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyjarufa&&theme=tokyonight" alt="dyjarufa" /></p>
