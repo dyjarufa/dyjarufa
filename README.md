@@ -38,11 +38,11 @@
 </div>
 
 </br>
-</br>
 
-
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyjarufa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dyjarufa" /></div>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyjarufa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dyjarufa" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dyjarufa&show_icons=true&locale=en&theme=tokyonight" alt="dyjarufa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyjarufa&&theme=tokyonight" alt="dyjarufa" /></p>
+</div>
